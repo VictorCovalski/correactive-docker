@@ -7,7 +7,9 @@ Please, refer to the official documentation to learn how to use CorReactive.
 
 ## Links
 [Download CorReactive](https://sourceforge.net/projects/correactive/)
+
 [Official Documentation](https://sourceforge.net/p/correactive/wiki/FAQ/)
+
 [Docker Hub Repository](https://hub.docker.com/r/victorjunes/correactive/)
 
 ## Quick Start
