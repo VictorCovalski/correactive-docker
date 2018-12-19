@@ -1,6 +1,6 @@
 FROM centos:7
 
-RUN yum install -y java-1.8.0-openjdk-headless.x86_64;mkdir correactive
+RUN yum install -y openssh-clients java-1.8.0-openjdk-headless.x86_64;mkdir correactive
 
 COPY ./correactive ./correactive
 
